@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/naviya-react/static/css/main.347ec67d.chunk.css",
+    "main.js": "/naviya-react/static/js/main.e4ff3676.chunk.js",
+    "main.js.map": "/naviya-react/static/js/main.e4ff3676.chunk.js.map",
+    "runtime-main.js": "/naviya-react/static/js/runtime-main.464863aa.js",
+    "runtime-main.js.map": "/naviya-react/static/js/runtime-main.464863aa.js.map",
+    "static/js/2.5a89956e.chunk.js": "/naviya-react/static/js/2.5a89956e.chunk.js",
+    "static/js/2.5a89956e.chunk.js.map": "/naviya-react/static/js/2.5a89956e.chunk.js.map",
+    "index.html": "/naviya-react/index.html",
+    "static/css/main.347ec67d.chunk.css.map": "/naviya-react/static/css/main.347ec67d.chunk.css.map",
+    "static/js/2.5a89956e.chunk.js.LICENSE.txt": "/naviya-react/static/js/2.5a89956e.chunk.js.LICENSE.txt",
+    "static/media/Full_logo.cf767460.svg": "/naviya-react/static/media/Full_logo.cf767460.svg",
+    "static/media/Naviya-Logo.f43c1ff9.png": "/naviya-react/static/media/Naviya-Logo.f43c1ff9.png",
+    "static/media/about.5b9f87f5.png": "/naviya-react/static/media/about.5b9f87f5.png",
+    "static/media/index.css": "/naviya-react/static/media/hero-bg.5ef60beb.png",
+    "static/media/hero-img.4dde8dca.png": "/naviya-react/static/media/hero-img.4dde8dca.png",
+    "static/media/ipcamera.8acfa773.png": "/naviya-react/static/media/ipcamera.8acfa773.png",
+    "static/media/tv.631bc78a.png": "/naviya-react/static/media/tv.631bc78a.png",
+    "static/media/webcam.45e7c9c5.png": "/naviya-react/static/media/webcam.45e7c9c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.464863aa.js",
+    "static/js/2.5a89956e.chunk.js",
+    "static/css/main.347ec67d.chunk.css",
+    "static/js/main.e4ff3676.chunk.js"
+  ]
+}
